@@ -1,0 +1,24 @@
+{
+  "emmet.excludeLanguages": ["javascriptreact", "react"],
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll.eslint": "explicit"
+  // },
+  // "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "scss.validate": false,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "typescript.preferences.autoImportFileExcludePatterns": ["@radix-ui/**/*"],
+
+  "editor.autoClosingQuotes": "always",
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "javascript.suggest.completeFunctionCalls": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

@@ -1,0 +1,161 @@
+IT Knowledge Roadmap for Developers
+
+
+1. Computer Fundamentals
+
+Computer Hardware
+-> CPU
+-> RAM (Random Access Memory)
+-> ROM (Read-Only Memory)
+-> Hard Disk Drives (HDD) and Solid State Drives (SSD)
+-> Motherboard
+-> Graphics Card (GPU)  -> [ must learn about nvidia ]
+-> Power Supply Unit (PSU)
+
+Basic Computer Architecture
+Binary and Hexadecimal Systems ( important )
+Data Representation
+
+-----------------------
+2. Operating Systems
+
+Windows
+-> File system
+-> Command Prompt
+-> PowerShell
+-> Task Manager
+-> Registry
+
+Linux
+-> Distributions (Ubuntu, Fedora, CentOS)
+-> Shell basics (Bash)
+-> File system hierarchy
+-> Package management
+-> Permissions
+
+macOS ( not important )
+-> Finder
+-> Terminal
+-> Spotlight
+-> Time Machine
+
+-----------------------
+3. Soft Skills and Career Development
+
+Communication Skills
+Problem-Solving
+Team Collaboration
+Time Management
+Continuous Learning 
+
+-----------------------
+4. Networking Basics
+
+IP addressing
+DNS (Domain Name System)
+HTTP/HTTPS
+TCP/IP model
+Firewalls
+VPN (Virtual Private Network)
+
+-----------------------
+5. Industry Knowledge
+
+Tech Entrepreneurs
+
+-> Elon Musk (Tesla, SpaceX)
+-> Sundar Pichai (Google)
+-> Mark Zuckerberg (Facebook)
+-> Jeff Bezos (Amazon)
+-> Satya Nadella (Microsoft)
+-> Jensen Huang (NVIDIA)
+
+IT Giants and Their Technologies
+
+-> Microsoft (Windows, Azure, .NET)
+-> Google (Search, Android, Google Cloud)
+-> Apple (iOS, macOS, Swift)
+-> Amazon (AWS, E-commerce)
+-> Facebook (Social Media, React)
+-> NVIDIA (GPUs, CUDA, AI/ML hardware, Omniverse)
+
+Open Source Contributions ( Important )
+
+-----------------------
+6. Cybersecurity Basics
+
+Common vulnerabilities
+Encryption
+Authentication and Authorization
+Security best practices
+
+-----------------------
+7. Ethics in Technology
+
+Data Privacy
+AI Ethics -> [ should learn after 10 step ]
+Environmental Impact of Technology
+Digital Divide
+
+-----------------------
+8. Software Development Methodologies
+
+Agile
+Scrum
+Waterfall
+Lean
+
+-----------------------
+9. Programming Fundamentals
+
+What is Programming
+List of languages and there use cases
+Algorithms and Data Structures ( only basic guide ) 
+Object-Oriented Programming (OOP) ( only basic guide )
+Functional Programming ( only basic guide )
+Version Control Systems (Git)
+Integrated Development Environment ( IDEs ) and Text Editors
+
+-----------------------
+10. Web Development Basics
+
+HTML
+CSS
+JavaScript 
+
+-----------------------
+11. Artificial Intelligence and Machine Learning
+
+AI ( Basic Concepts )
+AGI
+Neural Networks and Deep Learning
+Humanoid Robot
+
+-----------------------
+12. Cloud Computing
+
+Basic Concepts
+Major Providers (AWS, Google Cloud, Azure)
+IaaS, PaaS, SaaS
+
+-----------------------
+13. Emerging Technologies
+
+Augmented and Virtual Reality (AR/VR)
+3D Printing
+Gaming ( Unreal Engine / Unity )
+Biotechnology and Bioinformatics
+Nanotechnology
+Robotics and Automation
+
+-----------------------
+14. Advanced Topics
+
+Quantum Computing
+ -> Potential Applications
+ -> Future of Quantom Computing
+
+Blockchain and Cryptocurrencies
+Internet of Things (IoT)
+Edge Computing
+5G and Future Networking Technologies
